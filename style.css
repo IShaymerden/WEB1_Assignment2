@@ -506,4 +506,18 @@ button {
     .gallery-item {
         height: 220px;
     }
+
+    .button-link {
+    display: inline-block;
+    padding: 12px 20px;
+    background-color: #222;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.button-link:hover {
+    background-color: #555;
+}
 }
